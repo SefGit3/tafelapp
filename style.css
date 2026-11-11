@@ -1,0 +1,12 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(67, 67, 67);
+}
+.card {
+  background-color: whitesmoke;
+}
+.card-header,
+.card-footer {
+    background-color: #222222;
+    color: white;
+}
